@@ -41,16 +41,17 @@ Currently exploring cutting-edge technologies and working on exciting projects i
 
 ## 🚀 Projects
 
-- [Project One]([https://github.com/yourusername/project-one](https://github.com/harshdeep-5911/Office-Management-System)) — Brief description of the project  
-- [Project Two]([https://github.com/yourusername/project-two](https://github.com/harshdeep-5911/Superbike_Rental_Hub)) — Brief description of the project  
+- [Project One](https://github.com/harshdeep-5911/Skill-Exchange) — • Engineered a full-stack MERN application that enables professionals to exchange services through a skillbased credit system. Implemented features such as real-time chat (Socket.IO), service request system, skill credit system, and dynamic profiles.
+- [Project Two](https://github.com/harshdeep-5911/Office-Management-System) — • Designed and developed an Office Management System with modules for Ticket Management, Helpdesk Management, and Grievance Management.  
+- [Project Three](https://github.com/harshdeep-5911/Superbike_Rental_Hub) — • Developed a dynamic motorcycle rental platform that allows users to search, book, and manage rentals with a clean and responsive UI. Prioritized user convenience, safety, and reliability.  
 
 ---
 
 ## 📫 How to reach me
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- Email: harshdeep7230@gmail.com 
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/harshdeep-singh-5911-)  
+- Leetcode: [@yourhandle](https://leetcode.com/u/singhharshdeep723/)  
 
 ---
 

@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**harshdeep-5911/harshdeep-5911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Profession] passionate about [your interests].  
+Currently working on [project or job].
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, AWS
+
+## 🚀 Projects
+
+- [Project One](https://github.com/yourusername/project-one) — Brief description
+- [Project Two](https://github.com/yourusername/project-two) — Brief description
+
+## 📫 How to reach me
+
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+⭐️ Feel free to check out my repositories and follow me!
+

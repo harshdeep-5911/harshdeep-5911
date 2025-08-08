@@ -50,7 +50,7 @@ Currently exploring cutting-edge technologies and working on exciting projects i
 ## 📫 How to reach me
 
 - Email: harshdeep7230@gmail.com 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/harshdeep-singh-5911-)  
+- LinkedIn: [linkedin.com/in/harshdeep-5911](https://linkedin.com/in/harshdeep-singh-5911-)  
 - Leetcode: [@singhharshdeep723](https://leetcode.com/u/singhharshdeep723/)  
 
 ---

@@ -55,7 +55,6 @@ Currently exploring cutting-edge technologies and working on exciting projects i
 
 ---
 
-![Harshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshdeep-5911_icons=true&theme=radical)
 
 ---
 

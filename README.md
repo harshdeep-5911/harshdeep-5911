@@ -41,9 +41,9 @@ Currently exploring cutting-edge technologies and working on exciting projects i
 
 ## 🚀 Projects
 
-- [Project One](https://github.com/harshdeep-5911/Skill-Exchange) — • Engineered a full-stack MERN application that enables professionals to exchange services through a skillbased credit system. Implemented features such as real-time chat (Socket.IO), service request system, skill credit system, and dynamic profiles.
-- [Project Two](https://github.com/harshdeep-5911/Office-Management-System) — • Designed and developed an Office Management System with modules for Ticket Management, Helpdesk Management, and Grievance Management.  
-- [Project Three](https://github.com/harshdeep-5911/Superbike_Rental_Hub) — • Developed a dynamic motorcycle rental platform that allows users to search, book, and manage rentals with a clean and responsive UI. Prioritized user convenience, safety, and reliability.  
+- [Skill-Link](https://github.com/harshdeep-5911/Skill-Exchange) — • Engineered a full-stack MERN application that enables professionals to exchange services through a skillbased credit system. Implemented features such as real-time chat (Socket.IO), service request system, skill credit system, and dynamic profiles.
+- [Office-Management-System](https://github.com/harshdeep-5911/Office-Management-System) — • Designed and developed an Office Management System with modules for Ticket Management, Helpdesk Management, and Grievance Management.  
+- [Superbike_Rental_Hub](https://github.com/harshdeep-5911/Superbike_Rental_Hub) — • Developed a dynamic motorcycle rental platform that allows users to search, book, and manage rentals with a clean and responsive UI. Prioritized user convenience, safety, and reliability.  
 
 ---
 
@@ -55,7 +55,7 @@ Currently exploring cutting-edge technologies and working on exciting projects i
 
 ---
 
-![Harshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Harshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshdeep-5911_icons=true&theme=radical)
 
 ---
 

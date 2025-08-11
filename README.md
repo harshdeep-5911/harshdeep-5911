@@ -1,7 +1,7 @@
 # Hi, I'm Harshdeep Singh 👋
 
 I'm a **Web Developer** passionate about building scalable and efficient software solutions.  
-Currently exploring cutting-edge technologies and working on exciting projects in **[Your Focus Area]**.
+Currently exploring cutting-edge technologies and working on exciting projects using MERN Stack.
 
 ## Hello, Nice to Meet You !!
 
